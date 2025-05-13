@@ -1,4 +1,4 @@
-# Secret Santa Backend
+# Secret Santa Backend for Design Patterns UBB
 
 ## Author Name
 
@@ -6,7 +6,7 @@
 
 ## System Explanation
 
-This system consists of an API for a Secret Santa application called *Secret Santa*. The API allows managing groups and participants, performing automatic draws to define the Secret Santa pairs, and consulting information related to groups and participants. The main features include creating, updating, deleting groups, adding participants, generating matches automatically, and securely and efficiently retrieving information.
+This system consists of an API for a Secret Santa application called *Secret Santa*. The API allows managing groups and participants, performing automatic draws to define the Secret Santa pairs, and consulting information related to groups and participants. The main features include creating, updating, deleting groups, adding participants, generating matches automatically, and securely and efficiently retrieving information. This API uses 5 design pattern implementations, as shown in the documentation PDF.
 
 ### Main Implemented Routes
 
